@@ -1,14 +1,14 @@
 # Coursera-stfn
 
-## Editing the file 
+## Editing the file
 
-Its a markdown file in this repository
+It's a markdown file in this repository.
 
 # Proyecto: Coursera-stfn
 
 Este repositorio contiene un script en Bash para calcular el interés simple como parte de la práctica del curso de Git y GitHub.
 
-##  Descripción
+## Descripción
 
 El archivo `simple-interest.sh` calcula el interés simple usando la fórmula tradicional:
 
@@ -21,9 +21,10 @@ El archivo `simple-interest.sh` calcula el interés simple usando la fórmula tr
 
 ## Ejecución
 
-```bash
-bash simple-interest.sh
 ## Licencia
 Este proyecto está bajo la licencia Apache 2.0. Consulta el archivo LICENSE para más detalles.
 
-Este proyecto forma parte del curso de Git y GitHub Coursera
+Este proyecto forma parte del curso de Git y GitHub en Coursera.
+
+```bash
+bash simple-interest.sh
