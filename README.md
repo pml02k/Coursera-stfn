@@ -23,5 +23,7 @@ El archivo `simple-interest.sh` calcula el interés simple usando la fórmula tr
 
 ```bash
 bash simple-interest.sh
-## 📄 Licencia
+## Licencia
 Este proyecto está bajo la licencia Apache 2.0. Consulta el archivo LICENSE para más detalles.
+
+Este proyecto forma parte del curso de Git y GitHub Coursera
